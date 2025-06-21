@@ -13,7 +13,7 @@ Dataset details the distribution of birthdays among eligible voters in Armenia, 
 | `weekday`  | Day of the week (1=Monday, 7=Sunday)   |
 
 ### Source & Coverage
-Aggregated from 2,577,173 voter records published by Armenian Police/Migration Services. It covers birth dates to 2003/06/20 for citizens 18 years or older by the 2021 election. 19,060 records were excluded due to incomplete dates.
+Aggregated from 2,577,173 voter records published by Armenian Police/Migration Services. It covers birth dates up to 2003/06/20 for citizens 18 years or older by the 2021 election. 19,060 records were excluded due to incomplete dates.
 
 ### Important Notes
 Data reflects the birthday distribution of vote-eligible citizens as of 2021, not the entire population or historical births. 
